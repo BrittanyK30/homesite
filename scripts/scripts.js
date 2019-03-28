@@ -1,7 +1,5 @@
 // function myMap() {
-
 //   //mapProp defines the properties of  the map
-
 //   var mapProp = {
 //     //center where to center the map in  regard to lat and long, zoom specifies the zoom level for the map
 //     center:new google.maps.LatLng(51.508742,-0.120850),
